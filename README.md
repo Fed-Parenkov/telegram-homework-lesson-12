@@ -1,1 +1,1 @@
-# telegram-homework-lesson-12
+# Telegram notifications. Homework lesson #12
