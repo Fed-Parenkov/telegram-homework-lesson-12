@@ -1,5 +1,6 @@
 package parenkov.tests;
 
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import parenkov.pages.RegFormPage;
 
@@ -10,6 +11,7 @@ public class RegFormTest extends TestBase {
 
     RegFormPage regFormPage = new RegFormPage();
 
+    @Tag("all")
     @Test
     void FillRegFormTest() {
 
